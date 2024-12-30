@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Mahmud803/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mahmud803/Problem-Solving/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/Mahmud803/Problem-Solving/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mahmud803/Problem-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mahmud803/Problem-Solving/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Mahmud803/Problem-Solving/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
