@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mahmud803/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mahmud803/Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmud803/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/Mahmud803/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mahmud803/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mahmud803/Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Mahmud803/Problem-Solving/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
