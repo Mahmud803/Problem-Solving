@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mahmud803/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Mahmud803/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mahmud803/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahmud803/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mahmud803/Problem-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mahmud803/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahmud803/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Mahmud803/Problem-Solving/tree/master/1894-merge-strings-alternately) |
 ## Math
